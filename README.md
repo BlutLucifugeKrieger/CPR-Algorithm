@@ -26,6 +26,13 @@ Well, to execute this program you need to clone this repository and after that, 
 
 
 
+### Second case -> using a command prompt
+
+![image2_x](https://github.com/BlutLucifugeKrieger/CRP-Algorithm/assets/130005378/914576ec-9521-49ec-834e-ea6502f059bc)
+
+
+
+
 
 
 
