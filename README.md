@@ -25,13 +25,26 @@ Well, to execute this program you need to clone this repository and after that, 
 ![image_ssd](https://github.com/BlutLucifugeKrieger/CRP-Algorithm/assets/130005378/50832fb3-45b7-434a-8da9-1a64d7398c9f)
 
 
-
 ### Second case -> using a command prompt
 
 ![image2_x](https://github.com/BlutLucifugeKrieger/CRP-Algorithm/assets/130005378/914576ec-9521-49ec-834e-ea6502f059bc)
 
 
 
+## Program execution
+
+Using the Pycharm IDE we got this:
+
+![image](https://github.com/BlutLucifugeKrieger/CRP-Algorithm/assets/130005378/8ad45689-7934-440e-958c-add91063486b)
+
+After that, you can choose a function to evaluate using the keyboard, for example we select the first one (Churchill function)
+
+**Note: as you can see, the number typed using the keyboard appears in green color
+
+![image](https://github.com/BlutLucifugeKrieger/CRP-Algorithm/assets/130005378/860dcc66-c830-432a-820d-9ec1c38a8cb0)
+
+
+And using the command prompt we got this:
 
 
 
