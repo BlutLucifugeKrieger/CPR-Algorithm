@@ -21,7 +21,8 @@ Well, to execute this program you need to clone this repository and after that, 
 
 ### First case -> using an IDE (Pycharm) 
 
-![image](https://github.com/BlutLucifugeKrieger/CRP-Algorithm/assets/130005378/32dc9137-3a0d-461b-95d9-522e3b71e57c)
+![image](https://github.com/BlutLucifugeKrieger/CRP-Algorithm/assets/130005378/f23316b4-3481-4bad-b0cd-16450c2500df)
+
 
 
 
