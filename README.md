@@ -8,14 +8,20 @@
 
 
 **Juan Camilo Castro Velásquez**
+
 Department of Software Engineering, 
+
 Colombian School of Engineering Julio Garavito.
+
 Email: juan.castro-v@mail.escuelaing.edu.co
 
 
 **Juan David Rincón Vanegas**
+
 Department of Civil and Agricultural Engineering, 
+
 National University of Colombia.
+
 E-mail: jurinconva@unal.edu.co
 
 This repository contains an algorithm that is capable to calculate the relative error of a laminar flow and turbulent flow depends on a the roughness and reynolds values.
