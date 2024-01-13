@@ -39,7 +39,7 @@ Using the Pycharm IDE we got this:
 
 After that, you can choose a function to evaluate using the keyboard, for example we select the first one (Churchill function)
 
-**Note: as you can see, the number typed using the keyboard appears in green color
+**Note:** as you can see, the number typed using the keyboard appears in green color
 
 ![image](https://github.com/BlutLucifugeKrieger/CRP-Algorithm/assets/130005378/860dcc66-c830-432a-820d-9ec1c38a8cb0)
 
