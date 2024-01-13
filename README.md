@@ -45,6 +45,8 @@ Now, you can enter the values to define the range of Reynolds, roughness, and th
 
 ### Example of using the Churchill function
 
+**main.py executed**
+
 Functions to evaluate
 
 1: Churchill function
