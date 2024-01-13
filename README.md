@@ -5,7 +5,7 @@
 [![Matplotlib Version](https://img.shields.io/badge/matplotlib-3.8.2-blue.svg)](https://pypi.org/project/matplotlib/3.8.2/)
 
 ______________________________________________________________
-**Contanc info:**
+**Contact info:**
 
 **Juan Camilo Castro Velásquez**
 
