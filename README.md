@@ -3,7 +3,7 @@
 [![Matplotlib Version](https://img.shields.io/badge/matplotlib-3.8.2-blue.svg)](https://pypi.org/project/matplotlib/3.8.2/)
 
 
-This repository contains an algorithm that is capable to calculate the relative error of a laminar flow and turbulent flow depends on a the roughness and reynolds values
+This repository contains an algorithm that is capable to calculate the relative error of a laminar flow and turbulent flow depends on a the roughness and reynolds values.
 
 
 ## What should i know before running the program?
