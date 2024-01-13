@@ -6,7 +6,7 @@
 This repository contains an algorithm that is capable to calculate the relative error of a laminar flow and turbulent flow depends on a the roughness and reynolds values
 
 
-## how to use?
+## What should i know before running the program?
 First of all, check your current python version to avoid issues while the program is running,
 if your are wondering what kind of libraries you need to have to run this program, we listed all of this just right here!:
 
@@ -14,3 +14,11 @@ if your are wondering what kind of libraries you need to have to run this progra
  * SciPy version -> 1.11.4
  * Numpy version -> 1.26.0
  * Matplotlib -> 3.8.2
+
+## How to use?
+
+Well, to execute this program you need to clone this repository and after that, you should to open this project using a Python IDE or you can execute this project using the command prompt
+
+### First case -> using an IDE (Pycharm)
+
+
