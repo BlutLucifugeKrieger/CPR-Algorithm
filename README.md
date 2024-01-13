@@ -48,20 +48,33 @@ Now, you can enter the values to define the range of Reynolds, roughness, and th
 Functions to evaluate
 
 1: Churchill function
+
 2: Swamee function
+
 3: Russian function
+
 4: Brkic and Praks function
+
 5: Damacillio and Placencia function
+
 6: Avci Karagoz function
+
 7: Cheng function
+
 8: Modified Avci Karagoz function
+
 9: Mbpls function
 
 Please enter a value from 1 to 9: 1
+
 Enter the value for Reynolds's lower limit: 0
+
 Enter the value for Reynolds's upper limit: 2000
+
 Enter the value for Sobol's potency : 3
+
 Enter the value for relative roughness lower limit: 0
+
 Enter the value for relative roughness upper limit: 0.05
 
 ------------------------------------------
