@@ -35,11 +35,13 @@ Well, to execute this program you need to clone this repository and after that, 
 
 Using the Pycharm IDE or the command prompt we got this:
 
-![image](https://github.com/BlutLucifugeKrieger/CRP-Algorithm/assets/130005378/8ad45689-7934-440e-958c-add91063486b)
+![image_li1](https://github.com/BlutLucifugeKrieger/CRP-Algorithm/assets/130005378/b058a313-6fd5-4d70-904e-8257b241e5d7)
+
 
 After that, you can choose a function to evaluate using the keyboard:
 
-![image](https://github.com/BlutLucifugeKrieger/CRP-Algorithm/assets/130005378/860dcc66-c830-432a-820d-9ec1c38a8cb0)
+![image_li2](https://github.com/BlutLucifugeKrieger/CRP-Algorithm/assets/130005378/11ecbec5-0344-44b8-85c0-3ed9f07db8ab)
+
 
 Now, you can enter the values to define the range of Reynolds, roughness, and the exponent for the quantity of samples of sobol.
 
