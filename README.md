@@ -67,6 +67,7 @@ Furthermore, there is a option to change the range of each iteration or use the 
 , you can select two options of optimization random-cd or lloyd
 
 **Note:** The zero value isn't allowed, because is problematic in some equations, for that reason, you must work with values closer to zero, like 1e-10
+**Note:** For sobol's potency upper than 13, you should have a great ram capacity (more than 16 gbs)
 __________________________________________________________________________
 
 ### Example of using the Churchill function
