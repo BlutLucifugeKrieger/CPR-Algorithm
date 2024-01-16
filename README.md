@@ -65,8 +65,9 @@ __________________________________________________________________________
 Now, you can enter the values to define the range of Reynolds, roughness, and the exponent for the quantity of samples of sobol.
 Furthermore, there is a option to change the range of each iteration or use the same range, and if you want to optimize the results
 , you can select two options of optimization random-cd or lloyd
-__________________________________________________________________________
+
 **Note:** The zero value isn't allowed, because is problematic in some equations, for that reason, you must work with values closer to zero, like 1e-10
+__________________________________________________________________________
 
 ### Example of using the Churchill function
 
