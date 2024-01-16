@@ -61,11 +61,11 @@ Using the Pycharm IDE or the command prompt we got this:
 After that, you can choose a function to evaluate using the keyboard:
 
 ![image_li2](https://github.com/BlutLucifugeKrieger/CRP-Algorithm/assets/130005378/11ecbec5-0344-44b8-85c0-3ed9f07db8ab)
-
+__________________________________________________________________________
 Now, you can enter the values to define the range of Reynolds, roughness, and the exponent for the quantity of samples of sobol.
 Furthermore, there is a option to change the range of each iteration or use the same range, and if you want to optimize the results
 , you can select two options of optimization random-cd or lloyd
-
+__________________________________________________________________________
 **Note:** The zero value isn't allowed, because is problematic in some equations, for that reason, you must work with values closer to zero, like 1e-10
 
 ### Example of using the Churchill function
