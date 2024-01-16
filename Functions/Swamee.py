@@ -55,7 +55,7 @@ class Swamee:
         return f1
 
 
-    def CRP(self):
+    def CPR(self):
         x0 = 1 / sqrt(fseed)
         for e in self.relative_roughness_list_swamee:
             for r in self.reynolds_list_swamee:

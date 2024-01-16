@@ -50,7 +50,7 @@ class Mbpls:
         f1 = 61.395/r + (0.024444+0.60915*e)/(np.exp(8188400/(r**2)))
         return f1
 
-    def CRP(self):
+    def CPR(self):
         x0 = 1 / sqrt(fseed)
         for e in self.relative_roughness_list_mbpls:
             for r in self.reynolds_list_mbpls:

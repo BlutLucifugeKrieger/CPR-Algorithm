@@ -53,7 +53,7 @@ class Russian:
         f1 = 0.11 * ((alfa + e + x ** 1.4) / (115 * x + 1)) ** 0.25
         return f1
 
-    def CRP(self):
+    def CPR(self):
         x0 = 1 / sqrt(fseed)
         for e in self.relative_roughness_list_russian:
             for r in self.reynolds_list_russian:

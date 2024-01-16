@@ -55,7 +55,7 @@ class Brkic_praks:
         f1 = (64 / r) * (1 - y1) + (0.316 / r ** 0.25) * (y1 - y3) + (0.25 / ((log10(e / 3.71)) ** 2)) * y2
         return f1
 
-    def CRP(self):
+    def CPR(self):
         x0 = 1 / sqrt(fseed)
         for e in self.relative_roughness_list_brkic_p:
             for r in self.reynolds_list_brkic_p:

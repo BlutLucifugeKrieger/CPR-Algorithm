@@ -53,7 +53,7 @@ class Damacillo_plasc:
         f1 = 64/r + lambda1/(1+np.exp((tau1-r)/100)) + lambda2/(1+np.exp(((tau2-r)/150)*e))
         return f1
 
-    def CRP(self):
+    def CPR(self):
         x0 = 1 / sqrt(fseed)
         for e in self.relative_roughness_list_damacillo_plascencia:
             for r in self.reynolds_list_damacillo_plascencia:

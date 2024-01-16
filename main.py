@@ -72,7 +72,7 @@ def init():
 
                 churchill = Churchill(typed_re_lower_value, typed_re_upper_value, typed_m, typed_rl, typed_ru, points, optim)
 
-                churchill.CRP()
+                churchill.CPR()
                 churchill.laminar_relative_error()
                 churchill.turbulent_relative_error()
                 print()
@@ -102,7 +102,7 @@ def init():
 
                 swamee = Swamee(typed_re_lower_value, typed_re_upper_value, typed_m, typed_rl, typed_ru, points, optim)
 
-                swamee.CRP()
+                swamee.CPR()
                 swamee.laminar_relative_error()
                 swamee.turbulent_relative_error()
                 print()
@@ -129,7 +129,7 @@ def init():
 
                 russian = Russian(typed_re_lower_value, typed_re_upper_value, typed_m, typed_rl, typed_ru, points, optim)
 
-                russian.CRP()
+                russian.CPR()
                 russian.laminar_relative_error()
                 russian.turbulent_relative_error()
                 print()
@@ -156,7 +156,7 @@ def init():
 
                 brkic_p = Brkic_praks(typed_re_lower_value, typed_re_upper_value, typed_m, typed_rl, typed_ru, points, optim)
 
-                brkic_p.CRP()
+                brkic_p.CPR()
                 brkic_p.laminar_relative_error()
                 brkic_p.turbulent_relative_error()
                 print()
@@ -183,7 +183,7 @@ def init():
 
                 damacillo = Damacillo_plasc(typed_re_lower_value, typed_re_upper_value, typed_m, typed_rl, typed_ru, points, optim)
 
-                damacillo.CRP()
+                damacillo.CPR()
                 damacillo.laminar_relative_error()
                 damacillo.turbulent_relative_error()
                 print()
@@ -210,7 +210,7 @@ def init():
 
                 avci = Avci_karagoz(typed_re_lower_value, typed_re_upper_value, typed_m, typed_rl, typed_ru, points, optim)
 
-                avci.CRP()
+                avci.CPR()
                 avci.laminar_relative_error()
                 avci.turbulent_relative_error()
                 print()
@@ -237,7 +237,7 @@ def init():
 
                 cheng = Cheng(typed_re_lower_value, typed_re_upper_value, typed_m, typed_rl, typed_ru, points, optim)
 
-                cheng.CRP()
+                cheng.CPR()
                 cheng.laminar_relative_error()
                 cheng.turbulent_relative_error()
 
@@ -265,7 +265,7 @@ def init():
 
                 modified = Modified_avci_karagoz(typed_re_lower_value, typed_re_upper_value, typed_m, typed_rl, typed_ru, points, optim)
 
-                modified.CRP()
+                modified.CPR()
                 modified.laminar_relative_error()
                 modified.turbulent_relative_error()
 
@@ -293,7 +293,7 @@ def init():
 
                 mbp = Mbpls(typed_re_lower_value, typed_re_upper_value, typed_m, typed_rl, typed_ru, points, optim)
 
-                mbp.CRP()
+                mbp.CPR()
                 mbp.laminar_relative_error()
                 mbp.turbulent_relative_error()
 

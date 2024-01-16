@@ -54,7 +54,7 @@ class Cheng:
         f1 = 1/(((r/64)**alfa)*((1.8*log10(r/6.8))**(2*beta*(1-alfa)))*((2*log10(3.7/e))**(2*(1-alfa)*(1-beta))))
         return f1
 
-    def CRP(self):
+    def CPR(self):
         x0 = 1 / sqrt(fseed)
         for e in self.relative_roughness_list_cheng:
             for r in self.reynolds_list_cheng:

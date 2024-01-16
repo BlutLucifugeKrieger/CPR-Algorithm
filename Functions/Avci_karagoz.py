@@ -54,7 +54,7 @@ class Avci_karagoz:
         f1 = ft + ((64/r) - ft)*math.exp(-((cm*r)/2560)**8)
         return f1
 
-    def CRP(self):
+    def CPR(self):
         x0 = 1 / sqrt(fseed)
         for e in self.relative_roughness_list_avci_karagoz:
             for r in self.reynolds_list_avci_karagoz:

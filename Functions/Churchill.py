@@ -53,7 +53,7 @@ class Churchill:
         f1 = 8 * ((8 / r) ** 12 + (A + B) ** (-3 / 2)) ** (1 / 12)
         return f1
 
-    def CRP(self):
+    def CPR(self):
         x0 = 1 / sqrt(fseed)
         for e in self.relative_roughness_list_churchill:
             for r in self.reynolds_list_churchill:
