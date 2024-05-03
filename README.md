@@ -23,7 +23,7 @@ National University of Colombia.
 
 **Sebastián Pérez Ocampo**
 
-Department of Civil Engineering
+Department of Civil Engineering,
 Cooperative University of Colombia.
 
 **Email:** sebastian.perezo@campusucc.edu.co
