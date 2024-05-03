@@ -21,6 +21,12 @@ National University of Colombia.
 
 **E-mail:** jurinconva@unal.edu.co
 
+**Sebastián Pérez Ocampo**
+Department of Civil Engineering
+Cooperative University of colombia.
+
+**Email:** sebastian.perezo@campusucc.edu.co
+
 _______________________________________________________
 
 This repository contains an algorithm that is capable to calculate the relative error of a laminar flow and turbulent flow depends on a the roughness and reynolds values.
